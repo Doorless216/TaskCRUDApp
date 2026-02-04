@@ -40,4 +40,11 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// Apply pending migrations on startup
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<TodoListDbContext>();
+    dbContext.Database.Migrate();
+}
+
 app.Run();
