@@ -15,7 +15,7 @@ env:
   DOTNET_ROOT: .
   SECRET_CLIENT_ID: ${{ secrets.CLIENT_ID }}
   SECRET_TENANT_ID: ${{ secrets.TENANT_ID }}
-  SECRET_SUBSCRIPTION_ID: ${{ secrets.SUBSCRIPTION_ID  }}
+  SECRET_SUBSCRIPTION_ID: ${{ secrets.SUBCRIPTION_ID  }}
   APP_NAME: 'app-TodoList'
 
 jobs:
