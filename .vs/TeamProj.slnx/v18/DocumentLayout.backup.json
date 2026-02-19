@@ -3,47 +3,12 @@
   "WorkspaceRootPath": "C:\\Code\\mgs_github\\TeamProj\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\backend\\TodoList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\TodoList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabri\\AppData\\Local\\SourceServer\\820a304ca815404ed182c5cbde69879041c6cffe7886a62353c0d60683817a56\\TodoList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Code\\mgs_github\\TeamProj\\backend\\TodoListDataLayer\\TodoListDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\TodoListDataLayer\\TodoListDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,133 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.json",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T19:29:50.02Z"
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\backend\\TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\TodoList\\Program.cs",
+              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\backend\\TodoList\\Program.cs",
+              "RelativeToolTip": "backend\\TodoList\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T02:26:18.227Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\AppData\\Local\\SourceServer\\820a304ca815404ed182c5cbde69879041c6cffe7886a62353c0d60683817a56\\TodoList\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\gabri\\AppData\\Local\\SourceServer\\820a304ca815404ed182c5cbde69879041c6cffe7886a62353c0d60683817a56\\TodoList\\Program.cs",
-              "ToolTip": "C:\\Users\\gabri\\AppData\\Local\\SourceServer\\820a304ca815404ed182c5cbde69879041c6cffe7886a62353c0d60683817a56\\TodoList\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\Users\\gabri\\AppData\\Local\\SourceServer\\820a304ca815404ed182c5cbde69879041c6cffe7886a62353c0d60683817a56\\TodoList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T20:06:01.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:17:06.089Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TodoList.http",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-02-02T20:04:42.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-02T20:04:09.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TodoListItem.cs",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:40:19.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:15:35.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TodoList.csproj",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\TodoList.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T19:40:34.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "TodoListDbContext.cs",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoListDataLayer\\TodoListDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\backend\\TodoListDataLayer\\TodoListDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\TodoListDataLayer\\TodoListDbContext.cs",
+              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\backend\\TodoListDataLayer\\TodoListDbContext.cs",
+              "RelativeToolTip": "backend\\TodoListDataLayer\\TodoListDbContext.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T19:39:28.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TodoListModels.csproj",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoListModels\\TodoListModels.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T19:40:27.312Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs",
-              "ToolTip": "C:\\Code\\mgs_github\\TeamProj\\MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs",
-              "RelativeToolTip": "MSSA_CCAD21_TEAM_ALPHA\\TodoList\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:15:38.125Z"
+              "WhenOpened": "2026-02-12T00:06:40.907Z",
+              "EditorCaption": ""
             }
           ]
         }

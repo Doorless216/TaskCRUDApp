@@ -19,7 +19,10 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.WithOrigins("http://localhost:5173")
+            policy.WithOrigins(
+                "http://localhost:5173",
+                "https://blue-rock-0a91f240f.1.azurestaticapps.net"
+            )
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
@@ -39,9 +42,9 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 }
 
-app.UseHttpsRedirection();
-
 app.UseCors("AllowFrontend");
+
+app.UseHttpsRedirection();
 
 app.UseAuthorization();
 

@@ -5,7 +5,7 @@ export type TodoListItemDto = {
   isComplete: boolean;
 };
 
-const apiBaseUrl = "https://localhost:7274";
+const apiBaseUrl = import.meta.env.VITE_API_BASE_URL || "http://localhost:5081";
 
 // GET all items
 export async function getTodoListItems(): Promise<TodoListItemDto[]> {
